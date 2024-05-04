@@ -64,9 +64,11 @@ Conclusion:
     salary data, facilitating data-driven decision-making and enhancing organizational performance.
 
 
-    ![image](https://github.com/dineshnipane99/Salary-Dashboard-TABLEAU/assets/166678673/9d5e8f15-ffa3-49f3-8101-49372651f36a)
+![image](https://github.com/dineshnipane99/Salary-Dashboard-TABLEAU/assets/166678673/9d5e8f15-ffa3-49f3-8101-49372651f36a)
 
-    ![image](https://github.com/dineshnipane99/Salary-Dashboard-TABLEAU/assets/166678673/6188987f-9760-450f-8f94-5737a132a752)
+
+
+![image](https://github.com/dineshnipane99/Salary-Dashboard-TABLEAU/assets/166678673/6188987f-9760-450f-8f94-5737a132a752)
 
 
 
